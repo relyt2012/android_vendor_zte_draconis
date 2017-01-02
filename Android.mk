@@ -19,7 +19,7 @@ LOCAL_PATH := $(call my-dir)
 ifeq ($(TARGET_DEVICE),draconis)
 
 
-LOCAL_MODULE_CLASS := SHARED_LIBRARIES
+
 
 endif
 
